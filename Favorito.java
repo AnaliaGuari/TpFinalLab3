@@ -2,7 +2,7 @@ package Red;
 
 public class Favorito {
 
-	AConsumir aconsumires;
-	boolean publico;
+	private String[] codigo= new String [100];
+	private boolean publico;
 
 }
